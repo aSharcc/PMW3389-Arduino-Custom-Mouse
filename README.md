@@ -8,14 +8,24 @@ I also intend for this mouse to be easily repairable.
 
 ## Components
 
-- Sensor: PixArt PMW3389
+- Sensor: PixArt PMW3389 and LM19-LCT Lens
 
 - MCU: 3.3V Pro Micro (ATmega32U4)
 
-- Switches: Huano Blue Shell Pink Dot Mouse Switches
+- Switches: 2 x Huano Blue Shell Pink Dot Mouse Switches 
 
 - Controls: Rotary Encoder + Potentiometer for DPI adjustment
 
-- Hot Swap Socket for Switches: Mill-Max 3305
+- Hot Swap Socket for Switches: 4 x Mill-Max 3305
 
-- SMD stuff (0803
+- SMD stuff (0805)
+	- 1 x 13 ohm resistor
+	- 1 x 10k ohm resistor
+	- 5 x 0.1uF capacitor
+	- 4 x 10uF capacitor
+	- 1 x 4.7uF capacitor
+	- 1 x XC6206P182MR 65K5 LDO
+
+- PTFE Mouse Skates
+
+- Micro USB Cable
