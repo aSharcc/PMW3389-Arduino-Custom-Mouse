@@ -4,4 +4,5 @@
 
 * Created project folder structure
 * Set up git repository
+- Fixed formatting on .md files
 

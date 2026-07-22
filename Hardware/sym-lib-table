@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DEV-12587") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/DEV-12587.kicad_sym") (options "") (descr ""))
+	(lib (name "PMW3360DM-T2QU") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/PMW3360DM-T2QU.kicad_sym") (options "") (descr ""))
+	(lib (name "D2FC-F-7N_100M_") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/D2FC-F-7N_100M_.kicad_sym") (options "") (descr ""))
+)

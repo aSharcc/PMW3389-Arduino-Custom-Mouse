@@ -8,11 +8,14 @@ I also intend for this mouse to be easily repairable.
 
 ## Components
 
-- Sensor: PMW3389
+- Sensor: PixArt PMW3389
 
 - MCU: 3.3V Pro Micro (ATmega32U4)
 
-- Switches: Razer Green Mechanical Switches
+- Switches: Huano Blue Shell Pink Dot Mouse Switches
 
 - Controls: Rotary Encoder + Potentiometer for DPI adjustment
 
+- Hot Swap Socket for Switches: Mill-Max 3305
+
+- SMD stuff (0803

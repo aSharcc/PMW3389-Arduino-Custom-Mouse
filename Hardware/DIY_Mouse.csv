@@ -1,0 +1,12 @@
+Got?,Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+Y,C1,1,4.7uF,,,,,
+Y,"C2,C3,C6,C8,C10",5,0.1uF,,,,,
+Y,"C4,C5,C7,C9",4,10uF,,,,,
+Y,R1,1,Potentiometer,,,,,
+Y,R2,1,13Ω,,,,,
+Y,R3,1,10kΩ,,,,,
+Y,"S1,S2",2,Mouse Switch Hotswap,,,,D2FC-F-7N_100M_:SW_D2FC-F-7N_100M_,
+Y,SW1,1,RotaryEncoder_Switch,,,,,
+Y,U1,1,Arduino Pro Micro 3.3v,,,,DEV-12587:MODULE_DEV-12587,
+Y,U2,1,PMW3389DM-T3QU,,,,,
+Y,U3,1,XC6206P332MR-G,,,,Package_TO_SOT_SMD:SOT-23,http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf
