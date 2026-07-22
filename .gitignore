@@ -1,0 +1,11 @@
+# KiCad temporary and backup files
+*.bck
+*.bak
+*_autosave-*
+*.tmp
+*-save.kicad_pcb
+*.lck
+
+# Operating System files
+.DS_Store
+Thumbs.db
