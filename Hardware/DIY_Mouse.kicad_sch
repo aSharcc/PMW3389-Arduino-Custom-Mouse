@@ -2780,7 +2780,7 @@
 		(uuid "c577508f-ef1f-4727-8aa8-7f6355d2dcef")
 	)
 	(no_connect
-		(at 62.23 57.15)
+		(at 62.23 64.77)
 		(uuid "d5e4ace3-b944-4131-8f93-064cce3eb01b")
 	)
 	(no_connect
@@ -3222,7 +3222,7 @@
 		(uuid "20fc3417-6545-4b75-8472-99d1896c54f8")
 	)
 	(label "Rot A"
-		(at 62.23 64.77 180)
+		(at 62.23 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3476,7 +3476,7 @@
 		(fields_autoplaced yes)
 		(uuid "0cb7d8f2-3295-4736-ad0b-85d45401913f")
 		(property "Reference" "S2"
-			(at 40.64 80.01 0)
+			(at 40.64 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3485,8 +3485,8 @@
 				)
 			)
 		)
-		(property "Value" "Mouse Switch Hotswap"
-			(at 40.64 77.47 0)
+		(property "Value" "Mouse Switch"
+			(at 40.64 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4385,7 +4385,7 @@
 				)
 			)
 		)
-		(property "Value" "RotaryEncoder_Switch"
+		(property "Value" "Rotary Encoder w/Switch"
 			(at 124.46 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6218,7 +6218,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce86ae13-a0c3-4b06-b53f-2aa5b9700a15")
 		(property "Reference" "S1"
-			(at 43.18 67.31 0)
+			(at 43.18 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6227,8 +6227,8 @@
 				)
 			)
 		)
-		(property "Value" "Mouse Switch Hotswap"
-			(at 43.18 64.77 0)
+		(property "Value" "Mouse Switch"
+			(at 43.18 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

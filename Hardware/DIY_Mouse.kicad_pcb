@@ -924,7 +924,7 @@
 		(property "Reference" "SW1"
 			(at 2.8 -4.7 0)
 			(layer "F.SilkS")
-			(uuid "fbbc39bb-c00f-46b1-a94b-c02d9d9f6290")
+			(uuid "e015ac3c-0e87-43a8-8018-8077219862c3")
 			(effects
 				(font
 					(size 1 1)
@@ -935,7 +935,7 @@
 		(property "Value" "Rotary Encoder w/Switch"
 			(at 7.5 10.4 0)
 			(layer "F.Fab")
-			(uuid "6f8d761f-3816-436e-a088-31d691f40ee3")
+			(uuid "e034b573-0513-4329-a987-396b5b76efe3")
 			(effects
 				(font
 					(size 1 1)
@@ -948,7 +948,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4eefd11-e908-4beb-9da2-7ba3a9df7730")
+			(uuid "00a9b48e-972c-4f49-a8d2-529cc6ae87c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -961,7 +961,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf969299-5382-4ebb-8671-e4e0cca14603")
+			(uuid "736fcc89-9b6f-4b35-af5e-370455535759")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1345,7 +1345,7 @@
 		(property "Reference" "U1"
 			(at -5.715 -17.653 0)
 			(layer "F.SilkS")
-			(uuid "d7ffc2b9-f61f-4278-8797-b7b8087bb7a9")
+			(uuid "7d7d4ef6-ec11-466b-bf99-f014d1caca03")
 			(effects
 				(font
 					(size 1 1)
@@ -1357,7 +1357,7 @@
 			(at 1.27 17.907 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "670871b9-8c80-4036-b6ea-6e2b74a88155")
+			(uuid "d1beaad7-a7c7-47f1-9699-4cf774cfefa5")
 			(effects
 				(font
 					(size 1 1)
@@ -1369,7 +1369,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acf66135-2633-4fd1-b1a3-2fc0f5b18882")
+			(uuid "9607edc7-97b9-49f2-98fa-42eb560a32c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1380,7 +1380,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba440363-404f-4aa5-9c74-5afd5baa03a8")
+			(uuid "e4fe8b9e-6f33-4a3a-8a38-f607b8894247")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1850,9 +1850,9 @@
 			(drill 1.016)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/Rot A")
+			(net "unconnected-(U1-D6-PadJP7_4)")
 			(pinfunction "D6_JP7_4")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
 			(uuid "4b8722f9-9049-414d-8bde-f890ccf00728")
 		)
@@ -1886,9 +1886,9 @@
 			(drill 1.016)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U1-D3-PadJP7_7)")
+			(net "/Rot A")
 			(pinfunction "D3_JP7_7")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
 			(uuid "bd0ec5a1-8e4b-487a-8844-5e797baba032")
 		)
@@ -2768,7 +2768,7 @@
 		(property "Reference" "S2"
 			(at -3.005 -4.7 90)
 			(layer "F.SilkS")
-			(uuid "4709e597-c82f-42e6-b512-129dcc28997f")
+			(uuid "7a25b067-1be1-48de-9137-8214a85b54de")
 			(effects
 				(font
 					(size 1 1)
@@ -2779,7 +2779,7 @@
 		(property "Value" "Mouse Switch"
 			(at 0 4.5 90)
 			(layer "F.Fab")
-			(uuid "73539ba7-2261-4ebf-ade5-082c5447d8a0")
+			(uuid "489a34d2-6407-41e3-870e-b60a61bdce53")
 			(effects
 				(font
 					(size 1 1)
@@ -2791,7 +2791,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3244c7db-28ed-4d0e-ba1a-9b4b4a0f1423")
+			(uuid "547f9c3f-9bd6-49d7-a8ba-78a9a2392aac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2802,7 +2802,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04740011-3b9a-4fa5-84a8-38b94031f77f")
+			(uuid "dada121c-5ea9-47c0-82a7-91d0a1fcd3cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3356,7 +3356,7 @@
 		(property "Reference" "S1"
 			(at -3.005 -4.7 90)
 			(layer "F.SilkS")
-			(uuid "d7cac635-3da6-4a85-a9a2-7115cf2b538d")
+			(uuid "fa83a114-405b-47b7-a41f-b2bc993a8d95")
 			(effects
 				(font
 					(size 1 1)
@@ -3367,7 +3367,7 @@
 		(property "Value" "Mouse Switch"
 			(at 0 4.5 90)
 			(layer "F.Fab")
-			(uuid "bd37fd33-0597-46f8-8465-4c0d9e908d14")
+			(uuid "c5fae5e5-487b-43a5-af30-85278ebff6f1")
 			(effects
 				(font
 					(size 1 1)
@@ -3379,7 +3379,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0fd9d0c7-76c5-4ade-9233-73105579d79f")
+			(uuid "af7dc28a-78c2-4dc4-a9e3-9c5470226165")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3390,7 +3390,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d607568-4c22-44c4-bc4d-75c8f37dc494")
+			(uuid "e7c6fecd-f1e2-475f-be0a-72b237257696")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4102,7 +4102,7 @@
 		(property "Reference" "U2"
 			(at -2.413 -8.9789 0)
 			(layer "F.SilkS")
-			(uuid "061c66f7-1520-43b5-b08e-4b03b4e5d331")
+			(uuid "65c22690-4a71-401b-82c3-9f3503d67e4c")
 			(effects
 				(font
 					(size 1 1)
@@ -4113,7 +4113,7 @@
 		(property "Value" "PMW3389DM-T3QU"
 			(at -1.6002 8.8011 0)
 			(layer "Dwgs.User")
-			(uuid "c04d65d3-46f9-46b0-a473-de3a12b15693")
+			(uuid "6f056000-ef1f-46e2-8733-1c0cbb1d9d69")
 			(effects
 				(font
 					(size 0.64 0.64)
@@ -4125,7 +4125,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "793917c7-e5cf-422f-9509-38c3a07308c9")
+			(uuid "325cb32a-5dbc-4d11-a4d4-2235bc7b79f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +4136,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a5b2ccd-ee57-462a-b6f7-e204422712a1")
+			(uuid "41e846d7-e193-4497-ad27-a95bf004ea35")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5537,6 +5537,14 @@
 		(uuid "a657c60c-982b-45c6-815f-dfbf70e5a462")
 	)
 	(segment
+		(start 148.12 124.25)
+		(end 151.685686 120.684314)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/Rot A")
+		(uuid "038e92f8-4b54-4bb0-b2ee-b76656f53d6a")
+	)
+	(segment
 		(start 146.7 42.85)
 		(end 165.365685 42.85)
 		(width 0.2)
@@ -5561,14 +5569,6 @@
 		(uuid "4aa020f7-82eb-4333-a2a9-e20fffcddf58")
 	)
 	(segment
-		(start 151.685686 116.63)
-		(end 148.12 116.63)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/Rot A")
-		(uuid "5861a25b-15c7-4cd8-9e87-273f5a7a318f")
-	)
-	(segment
 		(start 144.4 45.15)
 		(end 146.7 42.85)
 		(width 0.2)
@@ -5591,6 +5591,14 @@
 		(layer "F.Cu")
 		(net "/Rot A")
 		(uuid "b39c4f10-3f58-4c98-abfe-1f9cae5968c6")
+	)
+	(segment
+		(start 151.685686 120.684314)
+		(end 151.685686 116.63)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/Rot A")
+		(uuid "bf822fc3-8d75-4ae1-b917-f8a674ed4844")
 	)
 	(segment
 		(start 144.4 61.5)

@@ -17,3 +17,20 @@
 - Solder Components to PCB
 - Test PCB
 - Design Mouse Shell 3D file
+
+## 23/07/2026
+
+- Designed PCB
+- Edited schecatics
+- Checked PCB
+- Created .GBR and .DRL files for PCB manufacturing
+- Added license details
+- Updated Credits and Readme
+
+### Next steps
+
+- Order PCB
+- Solder components
+- Create firmware
+- Test PCB
+- Design 3D model for mouse shell
