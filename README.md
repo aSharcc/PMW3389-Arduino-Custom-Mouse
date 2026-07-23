@@ -55,6 +55,6 @@ I also intend for this mouse to be easily repairable.
 
 ## Documentation & Credits
 
-- [Build & Design Log](BUILD_LOG.md)
+- [Build & Design Log](CHANGELOG.md)
 - [Third-Party Credits & Libraries](CREDITS.md)
 - [MIT License](LICENSE)
