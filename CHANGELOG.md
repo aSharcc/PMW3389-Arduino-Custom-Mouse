@@ -26,10 +26,10 @@
 - Created .GBR and .DRL files for PCB manufacturing
 - Added license details
 - Updated Credits and Readme
+- Ordered PCB
 
 ### Next steps
 
-- Order PCB
 - Solder components
 - Create firmware
 - Test PCB
