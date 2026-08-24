@@ -19,7 +19,7 @@ I also intend for this mouse to be easily repairable.
 
 - Switches: 2 x Huano Blue Shell Pink Dot Mouse Switches 
 
-- Controls: Rotary Encoder w/Switch (EC11) + Potentiometer for DPI adjustment
+- Controls: Rotary Encoder w/Switch (EC11)
 
 - Hot Swap Socket for Switches: 6 x Mill-Max 3305
 

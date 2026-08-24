@@ -2,7 +2,7 @@
 
 * PixArt PMW3389 Data Sheet: https://www.pixart.com/products-detail/4/PMW3389DM-T3QU/
 * PMW3360 Breakout Board by kbjunky (used to compare and verify designs): https://github.com/kbjunky/PMW3360/
-
+* PMW3389 Arduino firmware library (used to understand and compare code): https://github.com/Creasento/PWM3389_Arduino + https://github.com/mrjohnk/PMW3389DM/
 
 
 ## KiCad Symbols and Footprints

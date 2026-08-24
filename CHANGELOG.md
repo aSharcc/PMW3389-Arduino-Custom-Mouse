@@ -34,3 +34,16 @@
 - Create firmware
 - Test PCB
 - Design 3D model for mouse shell
+
+## 24/07/2026 to 24/08/2026
+
+- Soldered PCB
+- Tested PCB
+- Created Firmware
+- Tested Firmware
+- Updated Readme and Credits
+
+### Next steps
+
+- Create 3D model for shell
+- Create v2 of circtui board addressing issues (mouse switches are backwards, scroll wheel is awkward, lens hole is too small)
