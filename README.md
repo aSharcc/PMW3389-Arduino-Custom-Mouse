@@ -10,6 +10,15 @@ I also intend for this mouse to be easily repairable.
 - Modular and Repairable
 	- Hotswap Main Switches: Uses Mill-Max 3305 so can be replaced with no soldering
 	- Replacable MCU: Mounted with Through-Hole Header
+- Communication through SPI bus
+
+## How To Use
+
+1. Order PCB from PCB manufacturer (e.g. JLCPCB)
+2. Either get PCBA or hand solder components
+3. Download Library. Instructions in [Library](Firmware/README.md)
+4. Download [Firmware](Firmware/examples/BasicMouse/BasicMouse.ino)
+5. Flash firmware.
 
 ## Components
 
@@ -45,8 +54,8 @@ I also intend for this mouse to be easily repairable.
 	- MOT -> D2 (INT 1)
 
 - Rotary Encoder w/Switch
-	- A -> D3 (INT 0) (SCL)
-	- B -> D7 (INT 6)
+	- A -> D3 (INT 0) (SCL) (internal pullup)
+	- B -> D7 (INT 6) (internal pullup)
 	- S2 (Used for Switch) -> D8
 
 - Switches
