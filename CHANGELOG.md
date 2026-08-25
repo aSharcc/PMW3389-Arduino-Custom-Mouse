@@ -54,9 +54,14 @@
 - Updated pcb design (expanded cutout for lens, flipped switched)
 - Updated Credits
 - Added silkscreen logo to PCB
-- Began 3d modelling mouse shell
+- 3d modeled shell
 
 ### Next steps
 
-- Change scroll wheel/rotary encoder
-- Complete shell 3d model
+- Change scroll wheel/rotary encoder on pcb
+- Print shell
+- add threaded heat inserts into shell
+- assemble shell
+- test shell
+- order new scroll wheel and more PMW3389
+- Adjust shell to accomodate new scroll wheel
