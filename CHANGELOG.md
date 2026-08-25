@@ -46,4 +46,17 @@
 ### Next steps
 
 - Create 3D model for shell
-- Create v2 of circtui board addressing issues (mouse switches are backwards, scroll wheel is awkward, lens hole is too small)
+- Create v2 of circtui board addressing issues (mouse switches are backwards, scroll wheel is awkward, lens cutout is too small)
+
+## 25/08/2026
+
+- Added 3d models to pcb to design shell
+- Updated pcb design (expanded cutout for lens, flipped switched)
+- Updated Credits
+- Added silkscreen logo to PCB
+- Began 3d modelling mouse shell
+
+### Next steps
+
+- Change scroll wheel/rotary encoder
+- Complete shell 3d model
