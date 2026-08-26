@@ -63,8 +63,27 @@
 - add threaded heat inserts into shell
 - assemble shell
 - test shell
-- order new scroll wheel and more PMW3389
+- order new scroll wheel and more PMW3389 sensors
 - Adjust shell to accomodate new scroll wheel
 - Expand screw through-holes
 - countersink screws on bottom
 - expand mouse buttons
+
+## 26/08/2026
+
+- 3d printed mouse shell
+- Assembled mouse shell (heat inserts, screws)
+- Tested shell
+- Created new shell design (Countersunk screws, larger through-holes for screws, heat inserts line up correctly, larger mouse buttons)
+- Printed, assembled and tested new shell design
+
+### Next Steps
+
+- Test mouse overall
+- Order new scroll wheel and more PMW3389 sensors
+- Adjust shell to accomodate new scroll wheel
+- Change scroll wheel/rotary encoder on PCB
+- Order new PCBs
+- Make shell more ergonomic
+- add size buttons
+- add dpi control
