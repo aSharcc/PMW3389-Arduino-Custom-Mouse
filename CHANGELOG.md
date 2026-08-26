@@ -67,3 +67,4 @@
 - Adjust shell to accomodate new scroll wheel
 - Expand screw through-holes
 - countersink screws on bottom
+- expand mouse buttons
