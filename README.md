@@ -21,6 +21,9 @@ I also intend for this mouse to be easily repairable.
 3. Download Library. Instructions in [Library](Firmware/README.md)
 4. Download [Firmware](Firmware/examples/BasicMouse/BasicMouse.ino)
 5. Flash firmware.
+6. Download and Print 3d models from [Mechanical](Mechanical/)
+7. Add threaded heat inserts into shell
+8. Assemble Mouse
 
 ## Components
 
