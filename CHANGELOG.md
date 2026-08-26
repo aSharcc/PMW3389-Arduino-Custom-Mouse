@@ -88,3 +88,11 @@
 - Make shell more ergonomic
 - add size buttons
 - add dpi control
+
+## 27/08/2026
+
+-
+
+### Next Steps
+
+-
