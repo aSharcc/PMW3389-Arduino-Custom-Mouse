@@ -80,6 +80,7 @@
 ### Next Steps
 
 - Test mouse overall
+- Create cutout for usb wire
 - Order new scroll wheel and more PMW3389 sensors
 - Adjust shell to accomodate new scroll wheel
 - Change scroll wheel/rotary encoder on PCB
