@@ -65,3 +65,5 @@
 - test shell
 - order new scroll wheel and more PMW3389
 - Adjust shell to accomodate new scroll wheel
+- Expand screw through-holes
+- countersink screws on bottom
