@@ -98,10 +98,10 @@
 - Creating shell v2
     - Accomodate for new PCB
     - Make more ergonomic
+    - Added ridges to scroll whell for better grip
 
 ## Next Steps
 
 - Complete PCB v2
     - Order PCBs
     - Order PMW3389 sensors
-- Continue 3d modeling
