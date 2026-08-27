@@ -92,14 +92,15 @@
 - Added hole for usb cable at front of shell
 - Created scroll wheel cutout
 - Tested mouse - fully functional
+- Completed PCB v2
+    - Minimised pcb size
+    - Flipped arduino
 
 ## Next Steps
 
 - Complete PCB v2
-    - Minimise pcb size
-    - Flip arduino?
     - Order PCBs
-    - Order PMW3389 sensors and mouse rotary encoder
+    - Order PMW3389 sensors
 - Continue 3d modeling
     - Accomodate for new PCB
     - Make more ergonomic

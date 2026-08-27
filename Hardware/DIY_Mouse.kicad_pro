@@ -72,12 +72,28 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "courtyards_overlap|140109380|134833860|37fa6d7a-000f-4be5-b2d5-7e2009f0f947|43a3bcbe-a5de-451d-9a11-e9e011817bfd",
-          "pro micro will clear screw and mounting hole on z axis"
+          "courtyards_overlap|134575000|106280000|521cff46-2b90-4f2d-bd82-100e4b2e2294|59bd422f-ca6d-4ff5-b7d4-fb818e47ea84",
+          "Will clear with height"
         ],
         [
-          "npth_inside_courtyard|140500000|137250000|09c0518b-7c95-43fe-86b9-9821d7d0a7fb|37fa6d7a-000f-4be5-b2d5-7e2009f0f947",
-          "pro micro will clear screw and mounting hole on z axis"
+          "courtyards_overlap|137585000|106280000|0c9948e4-b537-4e51-a438-c31229bbd0b5|521cff46-2b90-4f2d-bd82-100e4b2e2294",
+          "Arduino will clear screw hole with height"
+        ],
+        [
+          "courtyards_overlap|140109380|134833860|43a3bcbe-a5de-451d-9a11-e9e011817bfd|521cff46-2b90-4f2d-bd82-100e4b2e2294",
+          "Arduino will clear screw hole with height"
+        ],
+        [
+          "lib_footprint_mismatch|123500000|58012500|7915d8d0-020d-426b-bd55-ab71609eeb32|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|158500000|58012500|547ba295-c962-40a0-be19-a32da12348e2|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "npth_inside_courtyard|140500000|137250000|09c0518b-7c95-43fe-86b9-9821d7d0a7fb|521cff46-2b90-4f2d-bd82-100e4b2e2294",
+          "will clear with height"
         ]
       ],
       "meta": {
@@ -533,7 +549,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "v2_GBR_Files/",
       "specctra_dsn": "",
       "step": "DIY_Mouse.step",
       "vrml": ""
