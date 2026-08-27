@@ -63,7 +63,7 @@
 - add threaded heat inserts into shell
 - assemble shell
 - test shell
-- order new scroll wheel and more PMW3389 sensors
+- Order new scroll wheel and more PMW3389 sensors
 - Adjust shell to accomodate new scroll wheel
 - Expand screw through-holes
 - countersink screws on bottom
@@ -91,8 +91,19 @@
 
 ## 27/08/2026
 
--
+- Added more screws to shell
+- Added hole for usb cable at front of shell
+- Created scroll wheel cutout
+- Tested mouse - fully functional
 
-### Next Steps
+## Next Steps
 
--
+- Complete PCB v2
+    - Change scroll wheel/rotary encoder on PCB
+    - Minimise pcb size
+    - Flip arduino?
+    - Order PCBs
+    - Order PMW3389 sensors and mouse rotary encoder
+- Continue 3d modeling
+    - Accomodate for new scroll wheel
+    - Make more ergonomic
