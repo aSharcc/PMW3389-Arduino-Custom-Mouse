@@ -99,6 +99,7 @@
     - Accomodate for new PCB
     - Make more ergonomic
     - Added ridges to scroll whell for better grip
+- Printed shell v2
 
 ## Next Steps
 
