@@ -81,9 +81,6 @@
 
 - Test mouse overall
 - Create cutout for usb wire
-- Order new scroll wheel and more PMW3389 sensors
-- Adjust shell to accomodate new scroll wheel
-- Change scroll wheel/rotary encoder on PCB
 - Order new PCBs
 - Make shell more ergonomic
 - add size buttons
@@ -99,11 +96,10 @@
 ## Next Steps
 
 - Complete PCB v2
-    - Change scroll wheel/rotary encoder on PCB
     - Minimise pcb size
     - Flip arduino?
     - Order PCBs
     - Order PMW3389 sensors and mouse rotary encoder
 - Continue 3d modeling
-    - Accomodate for new scroll wheel
+    - Accomodate for new PCB
     - Make more ergonomic
