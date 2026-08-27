@@ -95,6 +95,9 @@
 - Completed PCB v2
     - Minimised pcb size
     - Flipped arduino
+- Creating shell v2
+    - Accomodate for new PCB
+    - Make more ergonomic
 
 ## Next Steps
 
@@ -102,5 +105,3 @@
     - Order PCBs
     - Order PMW3389 sensors
 - Continue 3d modeling
-    - Accomodate for new PCB
-    - Make more ergonomic

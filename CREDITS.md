@@ -1,4 +1,4 @@
-# Third-Party Credits
+# Third-Party Credits 
 
 This project was developed using the following third-party resources for
 reference, comparison, and component integration.
