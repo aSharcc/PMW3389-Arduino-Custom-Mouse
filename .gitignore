@@ -10,4 +10,10 @@
 .DS_Store
 Thumbs.db
 
-Hardware\.history
+# PlatformIO build outputs & libraries
+Firmware/.pio/
+Firmware/.vscode/
+
+# KiCad backups & automatic history
+Hardware/DIY_Mouse-backups/
+Hardware/.history/

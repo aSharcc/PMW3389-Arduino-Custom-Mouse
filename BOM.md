@@ -105,7 +105,7 @@ You can install the PMW3389 library using either method:
 
 **Option 1 — Included library**
 
-1. Download [Firmware.zip](Firmware.zip).
+1. Download [Firmware.zip](Firmware/Firmware.zip).
 2. Open Arduino IDE.
 3. Go to **Sketch → Include Library → Add .ZIP Library...**
 4. Select `Firmware.zip`.
