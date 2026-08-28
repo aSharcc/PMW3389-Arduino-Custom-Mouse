@@ -6,6 +6,8 @@ A fully custom gaming mouse using an Arduino Pro Micro ATmega32U4 and a PixArt P
 
 I also intend for this mouse to be easily repairable.
 
+Be sure to read [BOM.md](docs\BOM.md)
+
 ## Key Features
 
 - High performance sensor: 16,000 DPI via PixArt PMW3389
@@ -16,7 +18,9 @@ I also intend for this mouse to be easily repairable.
 
 ## How To Use
 
-1. Order the PCB from a PCB manufacturer (e.g. JLCPCB).
+**DETAILED INSTRUCTIONS and BOM [HERE](docs/BOM.md)**
+
+1. Order the PCB from a PCB manufacturer (e.g. JLCPCB). [Files](https://github.com/aSharcc/PMW3389-Arduino-Custom-Mouse/releases/tag/2.0)
 2. Either:
    - Order PCBA for the SMD components, or
    - Purchase the SMD components and hand solder them.
