@@ -54,9 +54,9 @@ These components are intentionally excluded from PCBA and must be installed by h
 ## 5. 3D Printed Parts
 |Item|Source|Notes|
 |---|---|---|
-|Top Shell|[Top Shell 3mf](Mechanical/v1/3d print files/Mouse Shell top.3mf)|Keep at rotation, it helps with stepping|
-|Bottom shell|[Bottom Shell 3mf](Mechanical/v1/3d print files/Mouse Shell bottom.3mf)|-|
-|Scroll Knob|[Scroll Knob 3mf](Mechanical/v1/3d print files/Mouse Shell knob.3mf)|-|
+|Top Shell|[Top Shell 3mf](Mechanical/v2/STLs/Mouse Shell top.3mf)|Keep at rotation, it helps with stepping|
+|Bottom shell|[Bottom Shell 3mf](Mechanical/v2/STLs/Mouse Shell bottom.3mf)|-|
+|Scroll Knob|[Scroll Knob 3mf](Mechanical/v2/STLs/Mouse Shell knob.3mf)|-|
 
 ## 6. Mounting Hardware
 
@@ -88,9 +88,9 @@ The components in **Section 3: Through Hole Components** must still be purchased
 ### Shell
 
 - 3D print the following files:
-    - [Top Shell](Mechanical/v1/3d print files/Mouse Shell top.3mf)
-    - [Bottom Shell](Mechanical/v1/3d print files/Mouse Shell bottom.3mf)
-    - [Scroll Knob](Mechanical/v1/3d print files/Mouse Shell knob.3mf)
+    - [Top Shell](Mechanical/v2/STLs/Mouse Shell top.3mf)
+    - [Bottom Shell](Mechanical/v2/STLs/Mouse Shell bottom.3mf)
+    - [Scroll Knob](Mechanical/v2/STLs/Mouse Shell knob.3mf)
 - Insert heat inserts into the holes on the top and bottom shell
 
 ### Firmware
