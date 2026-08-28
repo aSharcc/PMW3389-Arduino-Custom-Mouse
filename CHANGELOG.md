@@ -117,10 +117,11 @@
 - Created BOM.csv
 - Updated .gitignore
 - Cleaned up repo files
+- Exported manufacture files for PCB
+- Created release on GitHub with PCB manufacture files and firmware
 
 ### Next Steps
 
 - Complete PCB v2 **(Wating for funding from stardance)**
     - Order PCBs
     - Order PMW3389 sensors
-- Complete BOM.csv
