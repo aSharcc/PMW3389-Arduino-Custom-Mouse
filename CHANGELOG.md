@@ -106,3 +106,21 @@
 - Complete PCB v2
     - Order PCBs
     - Order PMW3389 sensors
+
+## 28/08/2026
+
+- Iterating on shell v2
+    - Made USB cable cutout smaller to clamp cable
+    - Extended border around heat insert holes to stop them from collapsing
+- Updated README with instructions for creating the mouse
+- Created BOM.md
+- Created BOM.csv
+- Updated .gitignore
+- Cleaned up repo files
+
+### Next Steps
+
+- Complete PCB v2 **(Wating for funding from stardance)**
+    - Order PCBs
+    - Order PMW3389 sensors
+- Complete BOM.csv

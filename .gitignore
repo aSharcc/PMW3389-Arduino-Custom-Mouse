@@ -17,3 +17,15 @@ Firmware/.vscode/
 # KiCad backups & automatic history
 Hardware/DIY_Mouse-backups/
 Hardware/.history/
+
+# Manufacturing & Gerber Outputs (Upload via GitHub Releases)
+*.gbr
+*.drl
+*.gbl
+*.gbs
+*.gbo
+*.gto
+*.gts
+*.gtl
+*.gbrjob
+*.zip
