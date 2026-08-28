@@ -1,10 +1,11 @@
-# KiCad temporary and backup files
+# KiCad temporary, backup, and local display setting files
 *.bck
 *.bak
 *_autosave-*
 *.tmp
 *-save.kicad_pcb
 *.lck
+*.kicad_prl
 
 # Operating System files
 .DS_Store
@@ -14,9 +15,10 @@ Thumbs.db
 Firmware/.pio/
 Firmware/.vscode/
 
-# KiCad backups & automatic history
+# KiCad backups, history, & production outputs
 Hardware/DIY_Mouse-backups/
 Hardware/.history/
+Hardware/production/
 
 # Manufacturing & Gerber Outputs (Upload via GitHub Releases)
 *.gbr
@@ -29,4 +31,3 @@ Hardware/.history/
 *.gtl
 *.gbrjob
 *.zip
-Hardware\production
