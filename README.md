@@ -8,22 +8,26 @@ I also intend for this mouse to be easily repairable.
 
 ## Key Features
 
-- High performance sensor: 16,000DPI via PixArt PMW3389
+- High performance sensor: 16,000 DPI via PixArt PMW3389
 - Modular and Repairable
 	- Hotswap Main Switches: Uses Mill-Max 3305 so can be replaced with no soldering
-	- Replacable MCU: Mounted with Through-Hole Header
-- Communication through SPI bus
+	- Replaceable MCU: Mounted using through-hole pin headers
+- Sensor communication through SPI
 
 ## How To Use
 
-1. Order PCB from PCB manufacturer (e.g. JLCPCB)
-2. Either get PCBA or hand solder components
-3. Download Library. Instructions in [Library](Firmware/README.md)
-4. Download [Firmware](Firmware/examples/BasicMouse/BasicMouse.ino)
-5. Flash firmware.
-6. Download and Print 3d models from [Mechanical](Mechanical/)
-7. Add threaded heat inserts into shell
-8. Assemble Mouse
+1. Order the PCB from a PCB manufacturer (e.g. JLCPCB).
+2. Either:
+   - Order PCBA for the SMD components, or
+   - Purchase the SMD components and hand solder them.
+3. Purchase the components listed in the BOM that are not included in PCBA.
+4. Hand solder/install the components not included in PCBA.
+5. Download the PMW3389 library. See [Library](Firmware/README.md) for instructions.
+6. Download [Firmware](Firmware/examples/BasicMouse/BasicMouse.ino).
+7. Flash the firmware to the Pro Micro.
+8. Download and print the 3D models from [Mechanical](Mechanical/).
+9. Add threaded heat inserts to the shells.
+10. Assemble the mouse.
 
 ## Components
 
@@ -33,17 +37,17 @@ I also intend for this mouse to be easily repairable.
 
 - Switches: 2 x Huano Blue Shell Pink Dot Mouse Switches 
 
-- Controls: Rotary Encoder w/Switch (EC11)
+- Scroll Wheel: Rotary Encoder w/Switch (EC11)
 
 - Hot Swap Socket for Switches: 6 x Mill-Max 3305
 
-- SMD stuff (0805)
+- SMD Components (0805)
 	- 1 x 13 ohm resistor
 	- 1 x 10k ohm resistor
 	- 5 x 0.1uF capacitor
 	- 3 x 10uF capacitor
 	- 1 x 4.7uF capacitor
-	- 1 x XC6206P182MR 65K5 LDO
+	- 1 x XC6206-1.8V LDO
 
 - PTFE Mouse Skates
 
@@ -59,7 +63,7 @@ I also intend for this mouse to be easily repairable.
 	- MOT -> D2 (INT 1)
 
 - Rotary Encoder w/Switch
-	- A -> D3 (INT 0) (SCL) (internal pullup)
+	- A -> D3 (INT 0) (internal pullup)
 	- B -> D7 (INT 6) (internal pullup)
 	- S2 (Used for Switch) -> D8
 
