@@ -25,7 +25,7 @@ I also intend for this mouse to be easily repairable.
 5. Download the PMW3389 library. See [Library](Firmware/README.md) for instructions.
 6. Download [Firmware](Firmware/examples/BasicMouse/BasicMouse.ino).
 7. Flash the firmware to the Pro Micro.
-8. Download and print the 3D models from [Mechanical](Mechanical/).
+8. Download and print the 3D models from [STL Files](Mechanical/v2/STLs).
 9. Add threaded heat inserts to the shells.
 10. Assemble the mouse.
 
@@ -52,6 +52,11 @@ I also intend for this mouse to be easily repairable.
 - PTFE Mouse Skates
 
 - Micro USB Cable
+
+- Mounting Hardware
+	- 7 x Heat Insterts M2 x 3 x 3.2
+	- 3 x M2 x 4 Screw
+	- 4 x M2 x 7 Screw
 
 ## Pinout
 
