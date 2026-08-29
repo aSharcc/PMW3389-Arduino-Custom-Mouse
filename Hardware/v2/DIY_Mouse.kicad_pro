@@ -795,7 +795,7 @@
         },
         {
           "group_by": false,
-          "label": "JLCPCB Part #",
+          "label": "LCSC Part #",
           "name": "LCSC Part #",
           "show": true
         }
@@ -804,8 +804,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Value"
+      "sort_asc": false,
+      "sort_field": "LCSC Part #"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,

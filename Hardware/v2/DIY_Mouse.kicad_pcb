@@ -1622,7 +1622,7 @@
 				)
 			)
 		)
-		(property "Value" "XC6206P332MR-G"
+		(property "Value" "XC6206-1.8V"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1634,7 +1634,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1645,7 +1645,7 @@
 				)
 			)
 		)
-		(property "Description" "300mA Low Dropout Voltage Regulator, Fixed Output 1.9V, SOT-23"
+		(property "Description" "1.8V LDO"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32065,7 +32065,7 @@
 			)
 		)
 		(property "Value" "PMW3389DM-T3QU"
-			(at -1.6002 9.5 0)
+			(at 0 10.5 0)
 			(layer "Dwgs.User")
 			(uuid "e362c894-9503-4b16-bc6e-a54ff6f8470c")
 			(effects
