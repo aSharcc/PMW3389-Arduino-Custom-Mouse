@@ -2,5 +2,5 @@
 	(version 7)
 	(lib (name "D2FC-F-7N_100M_") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/D2FC-F-7N_100M_.kicad_sym") (options "") (descr ""))
 	(lib (name "PMW3360DM-T2QU") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/PMW3360DM-T2QU.kicad_sym") (options "") (descr ""))
-	(lib (name "XIAO_ESP32_S3") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/XIAO_ESP32_S3.kicad_sym") (options "") (descr ""))
+	(lib (name "XIAO_ESP32C3") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Symbols/XIAO_ESP32C3.kicad_sym") (options "") (descr ""))
 )
