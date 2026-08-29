@@ -16,9 +16,9 @@ Firmware/.pio/
 Firmware/.vscode/
 
 # KiCad backups, history, & production outputs
-Hardware/DIY_Mouse-backups/
-Hardware/.history/
-Hardware/production/
+Hardware\v2\DIY_Mouse-backups
+Hardware\v2\.history
+Hardware\v2\production
 
 # Manufacturing & Gerber Outputs (Upload via GitHub Releases)
 *.gbr
