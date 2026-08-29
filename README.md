@@ -37,7 +37,7 @@ Be sure to read [BOM.md](docs\BOM.md)
 
 - Sensor: PixArt PMW3389 and LM19-LCT Lens
 
-- MCU: 3.3V Pro Micro (ATmega32U4)
+- MCU: 3.3V/8MHz Pro Micro (ATmega32U4)
 
 - Switches: 2 x Huano Blue Shell Pink Dot Mouse Switches 
 
