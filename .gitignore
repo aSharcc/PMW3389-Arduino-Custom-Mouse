@@ -19,6 +19,9 @@ Firmware/.vscode/
 Hardware/v2/DIY_Mouse-backups
 Hardware/v2/.history
 Hardware/v2/production
+Hardware/v3/.history
+Hardware/v3/Mouse v3-backups
+Hardware/v3/production
 
 # Manufacturing & Gerber Outputs (Upload via GitHub Releases)
 *.gbr
