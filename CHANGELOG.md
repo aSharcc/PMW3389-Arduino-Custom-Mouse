@@ -125,3 +125,35 @@
 - Complete PCB v2 **(Wating for funding from stardance)**
     - Order PCBs
     - Order PMW3389 sensors
+
+## 29/08/2026
+
+- Created PCB v3 (Wireless)
+- Cleaned up GitHub repo
+- Exported PCB files
+- Created new release on GitHub
+
+### Next Steps
+
+- Order PCBs
+- Order PMW3389 sensors
+- Create shell for v3
+
+## 30/08/2026
+
+- Updated shell v2 (Changed click mechanism)
+- Printed new shell v2
+
+### Next Steps
+
+- Create shell for v3 (wireless)
+- Order PCB for v2 (wired) and v3 (wireless)
+- Waiting for ship to be verified for funding
+
+## 31/08/2026
+
+- 
+
+### Next Steps
+
+- 
