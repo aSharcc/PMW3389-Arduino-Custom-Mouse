@@ -72,12 +72,12 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "courtyards_overlap|134575000|106280000|521cff46-2b90-4f2d-bd82-100e4b2e2294|59bd422f-ca6d-4ff5-b7d4-fb818e47ea84",
-          "Will clear with height"
+          "courtyards_overlap|135550000|106280000|521cff46-2b90-4f2d-bd82-100e4b2e2294|59bd422f-ca6d-4ff5-b7d4-fb818e47ea84",
+          "Clears with height"
         ],
         [
-          "courtyards_overlap|137585000|106280000|0c9948e4-b537-4e51-a438-c31229bbd0b5|521cff46-2b90-4f2d-bd82-100e4b2e2294",
-          "Arduino will clear screw hole with height"
+          "courtyards_overlap|138560000|106280000|0c9948e4-b537-4e51-a438-c31229bbd0b5|521cff46-2b90-4f2d-bd82-100e4b2e2294",
+          "Clears with height"
         ],
         [
           "courtyards_overlap|140109380|134833860|43a3bcbe-a5de-451d-9a11-e9e011817bfd|521cff46-2b90-4f2d-bd82-100e4b2e2294",
