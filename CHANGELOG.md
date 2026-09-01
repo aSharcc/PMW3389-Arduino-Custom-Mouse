@@ -148,12 +148,12 @@
 
 - Create shell for v3 (wireless)
 - Order PCB for v2 (wired) and v3 (wireless)
-- Waiting for ship to be verified for funding
 
 ## 31/08/2026
 
-- 
+- Updated PCB v2 and v3 to follow DFM guidelines and increased size of lens cutout
 
 ### Next Steps
 
-- 
+- Create shell v3
+- Order PCB for v2 (wired) and v3 (wireless)
