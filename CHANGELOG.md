@@ -157,3 +157,15 @@
 
 - Create shell v3
 - Order PCB for v2 (wired) and v3 (wireless)
+
+## 02/09/2026
+
+- Updated Readme 
+- Created 3d printing files
+- Printed out new top shell
+
+### Next Steps
+
+- Center sensor on PCB v3
+- Create shell v3
+- Order PCB for v2 (wired) and v3 (wireless)
