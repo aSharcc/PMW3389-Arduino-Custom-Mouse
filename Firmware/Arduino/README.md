@@ -25,7 +25,9 @@ PMW3389 driver library for ATmega32u4 based boards. e.g. Sparkfun Pro Micro
 **ArduinoIDE** - Copy this folder into your sketchbook's 'libraries/' directory (usually 'Documents/Arduino/libraries/'), then restart the IDE.
 
 **OR**
-- Press Code->Download ZIP, go to ArduinoIDE, Sketch->include Library->Add .ZIP Library...->Select downloaded .ZIP file
+- Download [Library Zip File](https://github.com/aSharcc/PMW3389-Custom-Mouse/releases/download/2.0/Library.zip)
+- Go to ArduinoIDE
+- Sketch->include Library->Add .ZIP Library...->Select downloaded .ZIP file
 
 ## API Reference
 
