@@ -21,9 +21,11 @@ PMW3389 driver library for ATmega32u4 based boards. e.g. Sparkfun Pro Micro
 ## Installation
 
 **PlatformIO** - Copy this folder into your project's 'lib/' folder
+
 **ArduinoIDE** - Copy this folder into your sketchbook's 'libraries/' directory (usually 'Documents/Arduino/libraries/'), then restart the IDE.
+
 **OR**
-    - Press Code->Download ZIP, go to ArduinoIDE, Sketch->include Library->Add .ZIP Library...->Select downloaded .ZIP file
+- Press Code->Download ZIP, go to ArduinoIDE, Sketch->include Library->Add .ZIP Library...->Select downloaded .ZIP file
 
 ## API Reference
 
