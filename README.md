@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/145927b7-b68a-468a-8b0a-571980a8af83
+![Video Example of Mouse](https://github.com/user-attachments/assets/145927b7-b68a-468a-8b0a-571980a8af83)
 
 # PMW3389 Custom DIY Mouse
 
@@ -39,7 +39,7 @@ Be sure to read [BOM.md](docs/BOM.md)
 3. Purchase the components listed in the BOM that are not included in PCBA.
 4. Hand solder/install the components not included in PCBA.
 5. Download the PMW3389 library.
-	- For Wired: [Arduino Library](Firmware\Arduino\README.md) for instructions.
+	- For Wired: [Arduino Library](Firmware/Arduino/README.md) for instructions.
 	- For Wireless: **NOT COMPLETED**
 6. Download Firmware
 	- For Wired: [Arduino Firmware](https://github.com/aSharcc/PMW3389-Custom-Mouse/releases/download/2.0/Mouse.Firmware.ino)
@@ -49,8 +49,8 @@ Be sure to read [BOM.md](docs/BOM.md)
 	- For Wired: [Top](https://github.com/aSharcc/PMW3389-Custom-Mouse/releases/download/2.0/Mouse.Shell.top.gcode.3mf) + [Bottom](https://github.com/aSharcc/PMW3389-Custom-Mouse/releases/download/2.0/Mouse.Shell.bottom.gcode.3mf) + [Scroll](https://github.com/aSharcc/PMW3389-Custom-Mouse/releases/download/2.0/Mouse.Shell.knob.gcode.3mf)
 	- For Wireless: **NOT COMPLETED**
 9. Add threaded heat inserts to the shell.
-10. **For Wired Only**:
-	- 
+10. **For Wireless Only**:
+	- **Not Completed** Will include power switch and battery stuff.
 11. Assemble the mouse.
 
 ## Components
@@ -78,28 +78,28 @@ Be sure to read [BOM.md](docs/BOM.md)
 - Micro USB Cable for v2 or USB-C cable for v3 charging
 
 - Mounting Hardware
-	- 7 x Heat Insterts M2 x 3 x 3.2
+	- 7 x Heat Inserts M2 x 3 x 3.2
 	- 3 x M2 x 4 Screw
 	- 4 x M2 x 7 Screw
 
 - **FOR V3 ONLY**:
-	- 500mAH battery with JST connector
+	- 500mAh battery with JST connector
 	- SPDT / 1P2T PCB slide switch
 
 ## Pinout
 
-|Component|Usage|v2 (Pro Micro)|v3 (XIAO ESP32)|
+|Component|Usage|v2 (3.3v/8MHz Pro Micro)|v3 (XIAO ESP32)|
 |---|---|---|---|
-|PMW3389|NCS|D10|?|
-||MOSI|D16 (MOSI)|?|
-||MISO|D14 (MISO)|?|
-||SCLK|D15 (SCLK)|?|
-||MOT|D2 (INT 1)|?|
-|Rotary Encoder w/Switch|Rotary Encoder A|D3 (INT 0)|?|
-||Rotary Encoder B|D7 (INT 6)|?|
-||Encoder Switch S2|D8|?|
-|Switches|Switcg 1 (Left Click)|D4|?|
-||Switch 2 (Right Click)|D9|?|
+|**PMW3389**|NCS|D10|D3|
+||MOSI|D16 (MOSI)|D10 (MOSI)|
+||MISO|D14 (MISO)|D9 (MISO)|
+||SCLK|D15 (SCLK)|D8 (SCLK)|
+||MOT|D2 (INT 1)|D4|
+|**Rotary Encoder w/Switch**|Rotary Encoder A|D3 (INT 0)|D6|
+||Rotary Encoder B|D7 (INT 6)|D0|
+||Encoder Switch S2 (Middle Click)|D8|D7|
+|**Switches**|Switch 1 (Left Click)|D4|D1|
+||Switch 2 (Right Click)|D9|D2|
 
 ## Documentation & Credits
 
